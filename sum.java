@@ -1,6 +1,7 @@
 import java.util.*;
 public class gggg {
     public static void main(String[] args) {
+        //hi is me natsume nice to have you.
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
