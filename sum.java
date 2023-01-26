@@ -1,5 +1,5 @@
 import java.util.*;
-public class gggg {
+public class sum {
     public static void main(String[] args) {
         //hi is me natsume nice to have you.
         Scanner sc = new Scanner(System.in);
