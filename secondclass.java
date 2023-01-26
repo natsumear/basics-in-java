@@ -5,5 +5,6 @@ class secondclass {
       int b = 18;
       int ans = a*b/a+b;
       System.out.println(ans); // i am not use "" because using that i am printing ans text.
+      //natsumear
    }
 }
